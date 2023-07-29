@@ -1,0 +1,5 @@
+﻿  Utils.c
+C:\Users\97253\Desktop\לימודים\2019 סמסטר א\מבוא למדעי המחשב\מטלות\מטלה מספר 5\visualStudio\319122610_5\319122610_5\Utils.c(26,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Users\97253\Desktop\לימודים\2019 סמסטר א\מבוא למדעי המחשב\מטלות\מטלה מספר 5\visualStudio\319122610_5\319122610_5\Utils.c(214,37): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\97253\Desktop\לימודים\2019 סמסטר א\מבוא למדעי המחשב\מטלות\מטלה מספר 5\visualStudio\319122610_5\319122610_5\Utils.c(215,34): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+LINK : fatal error LNK1104: cannot open file 'C:\Users\97253\Desktop\לימודים\2019 סמסטר א\מבוא למדעי המחשב\מטלות\מטלה מספר 5\visualStudio\319122610_5\Debug\319122610_5.exe'

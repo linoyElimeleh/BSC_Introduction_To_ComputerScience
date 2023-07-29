@@ -1,0 +1,3 @@
+﻿  Building.c
+C:\Users\97253\source\repos\6examStructers\6examStructers\Building.c(101): warning C4715: 'AddFloor': not all control paths return a value
+  6examStructers.vcxproj -> C:\Users\97253\source\repos\6examStructers\Debug\6examStructers.exe

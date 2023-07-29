@@ -1,0 +1,48 @@
+char* AddNumbers(char* num1, char* num2)
+{
+	char* a = num1;;
+	char* b = num2;
+	int x = strlen(num1);
+	int y = strlen(num2);
+	int size = 0;
+	int moudoolu = 0;
+	if (x < y) {
+		size = y;
+	}
+	else {
+		size = x;
+	}
+	char* finalArray = calloc(size + 1, sizeof(char));
+	while (x != 0 && y != 0) {
+		int number = (a[x - 1] - '0') + (b[y - 1] - '0') + moudoolu;
+		char digit = '0';
+		if (number % 10 == 0) {
+			digit = '0';
+		}
+		else {
+			digit = ((number % 10)) + '0';
+		}
+		moudoolu = number / 10;
+		x--;
+		y--;
+		finalArray[size - 1] = digit;
+		size--;
+	}
+	if (x == 0) {
+		while (y != 0) {
+			finalArray[size - 1] = ((b[y - 1] - '0') + moudoolu) + '0';
+			moudoolu = 0;
+			size--;
+			y--;
+		}
+	}
+	if (y == 0) {
+		while (x != 0) {
+			finalArray[size - 1] = ((a[x - 1] - '0') + moudoolu) + '0';
+			moudoolu = 0;
+			size--;
+			x--;
+		}
+	}
+	return finalArray;
+}

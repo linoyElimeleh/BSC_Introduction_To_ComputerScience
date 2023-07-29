@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (319122610_5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Utils.c
+C:\Users\97253\source\repos\Project8\Project8\Utils.c(26,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Users\97253\source\repos\Project8\Project8\Utils.c(210,41): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\97253\source\repos\Project8\Project8\Utils.c(211,39): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+  Project8.vcxproj -> C:\Users\97253\source\repos\Project8\Debug\Project8.exe

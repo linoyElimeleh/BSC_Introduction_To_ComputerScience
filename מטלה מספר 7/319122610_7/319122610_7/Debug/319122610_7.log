@@ -1,0 +1,13 @@
+﻿  Utils.c
+C:\Users\97253\Desktop\לימודים\2019 סמסטר א\מבוא למדעי המחשב\מטלות\מטלה מספר 7\319122610_7\319122610_7\Utils.c(18,5): warning C4013: 'fx1' undefined; assuming extern returning int
+C:\Users\97253\Desktop\לימודים\2019 סמסטר א\מבוא למדעי המחשב\מטלות\מטלה מספר 7\319122610_7\319122610_7\Utils.c(38,5): warning C4013: 'fx2' undefined; assuming extern returning int
+C:\Users\97253\Desktop\לימודים\2019 סמסטר א\מבוא למדעי המחשב\מטלות\מטלה מספר 7\319122610_7\319122610_7\Utils.c(42,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\97253\Desktop\לימודים\2019 סמסטר א\מבוא למדעי המחשב\מטלות\מטלה מספר 7\319122610_7\319122610_7\Utils.c(42,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\97253\Desktop\לימודים\2019 סמסטר א\מבוא למדעי המחשב\מטלות\מטלה מספר 7\319122610_7\319122610_7\Utils.c(42,10): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\97253\Desktop\לימודים\2019 סמסטר א\מבוא למדעי המחשב\מטלות\מטלה מספר 7\319122610_7\319122610_7\Utils.c(42,10): message : this argument is used as a buffer size
+C:\Users\97253\Desktop\לימודים\2019 סמסטר א\מבוא למדעי המחשב\מטלות\מטלה מספר 7\319122610_7\319122610_7\Utils.c(59,5): warning C4013: 'fx3' undefined; assuming extern returning int
+C:\Users\97253\Desktop\לימודים\2019 סמסטר א\מבוא למדעי המחשב\מטלות\מטלה מספר 7\319122610_7\319122610_7\Utils.c(80,5): warning C4013: 'fx4' undefined; assuming extern returning int
+C:\Users\97253\Desktop\לימודים\2019 סמסטר א\מבוא למדעי המחשב\מטלות\מטלה מספר 7\319122610_7\319122610_7\Utils.c(96,5): warning C4013: 'fx5' undefined; assuming extern returning int
+C:\Users\97253\Desktop\לימודים\2019 סמסטר א\מבוא למדעי המחשב\מטלות\מטלה מספר 7\319122610_7\319122610_7\Utils.c(107,34): warning C4098: 'reveseArray': 'void' function returning a value
+C:\Users\97253\Desktop\לימודים\2019 סמסטר א\מבוא למדעי המחשב\מטלות\מטלה מספר 7\319122610_7\319122610_7\Utils.c(116,5): warning C4013: 'fx6' undefined; assuming extern returning int
+  319122610_7.vcxproj -> C:\Users\97253\Desktop\לימודים\2019 סמסטר א\מבוא למדעי המחשב\מטלות\מטלה מספר 7\319122610_7\Debug\319122610_7.exe
